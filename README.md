@@ -1,9 +1,9 @@
-# 🌟 Heatmap Generator 🌟
+# 🌟 Commits Heatmap Generator 🌟
 
-Welcome to the **Heatmap Generator**! This project provides a visual representation of your progress on a particular repository through a heatmap. Click on any day's box to see the activity and commits made on that day.
+Welcome to the **Commits Heatmap Generator**! This project provides a visual representation of your progress on a particular repository through a heatmap. Click on any day's box to see the activity and commits made on that day.
 
 ## 📖 Table of Contents
-- [🌟 Heatmap Generator 🌟](#-heatmap-generator-)
+- [🌟 Commits Heatmap Generator 🌟](#-commits-heatmap-generator-)
   - [📖 Table of Contents](#-table-of-contents)
   - [💡 Features](#-features)
   - [🔧 Installation](#-installation)
@@ -20,7 +20,7 @@ Welcome to the **Heatmap Generator**! This project provides a visual representat
 - Dynamic rendering of activities and commits made 💪
 
 ## 🔧 Installation
-To get started with the Heatmap Generator project, follow these steps:
+To get started with the Commits Heatmap Generator project, follow these steps:
 
 1. Clone the repository:
    ```bash
