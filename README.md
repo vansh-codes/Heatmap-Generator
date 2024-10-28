@@ -56,7 +56,7 @@ GITHUB_TOKEN=your_personal_access_github_token
 - Use the dropdown to filter by year for a more tailored experience.
 
 ## 🔗 Deployment
-Check out the live application here: [Heatmap Generator](https://heatmap-generator.vercel.app/) 🌐
+Check out the live application here: [Commits Heatmap](https://commits-heatmap.vercel.app/) 🌐
 
 ## 🔍 Acknowledgments
 A special thanks to the following libraries that made this project possible:
@@ -80,5 +80,7 @@ For any inquiries or suggestions, feel free to reach out to me:
 - [ ] Dynamic URL bypass fix
 - [ ] Sort commit msg and commit files issue when there are mutliple files changed in a commit
 - [ ] Ignore Merge 'etc etc' commits (might depend on user to user if they wanna change or not)
+- [ ] Add line graph for commits
+- [ ] Add no. of commits for the current month
 
 Thank you for checking out the Heatmap Generator! Happy coding! 🚀
